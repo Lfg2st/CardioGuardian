@@ -1,5 +1,8 @@
-# Heart Attack Prediction AI 🤖
+# CardioGuardian Assistance and AI system 🤖
 
+
+
+**ARTIFICIAL INTELLIGENCE 🧩**
 
 **Introduction:**
 
@@ -31,3 +34,7 @@
 - **Integration 🔗:** Seamlessly integrate the developed AI system with the main project using the Hugging Face API.
 
 [NOTE: Further information on the indiviual steps can be found within the `main.ipynb` notebook]
+
+
+
+**<Hardware part goes here>**
